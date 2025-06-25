@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grocery</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD2iCn1XM8zHTlJSYwPSnDAJM83m4PyBV4</string>
+
+</resources>
