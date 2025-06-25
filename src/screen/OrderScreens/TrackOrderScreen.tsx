@@ -26,10 +26,10 @@ const TrackOrderScreen = () => {
     const [sendMessage, setSendMessage] = useState('');
     const [orderStage, setOrderStage] = useState<'preparing' | 'almost_there'>('preparing');
     const updateActivity = () => {
-        FoodDelivery.updateActivityWithName("BurgerHouse", "Cheeseburger Menu x2", "$19.90", "Kadir's ETA", "8 min", 3);
+        FoodDelivery?.updateActivityWithName("BurgerHouse", "Cheeseburger Menu x2", "$19.90", "Kadir's ETA", "8 min", 3);
     };
     const onEndActivity = () => {
-        FoodDelivery.endActivity();
+        FoodDelivery?.endActivity();
     };
     useEffect(() => {
         const firstTimer = setTimeout(() => {

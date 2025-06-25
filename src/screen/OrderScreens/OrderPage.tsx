@@ -37,7 +37,7 @@ const OrderPage = () => {
     
     
   const onStartActivity = () => {
-    FoodDelivery.startActivity();
+    FoodDelivery?.startActivity();
   };
     const customLeftButton = () => {
         return (
