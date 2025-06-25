@@ -14,7 +14,7 @@ This is a new React Native project, bootstrapped using @react-native-community/c
 - Watchman (recommended for macOS users)
 - Ruby (for CocoaPods on iOS)
 
-, watch this walthrough : [Demo].
+ Watch this walkthrough : [Demo].
 
 <table>
    <tr>
