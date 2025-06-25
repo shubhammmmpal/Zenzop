@@ -2,7 +2,7 @@
 //  Grocery-Bridging-Header.h
 //  Grocery
 //
-//  Created by Urvashi Patidar on 23/06/25.
+//  Created by Shubham Pal on 23/06/25.
 //
 
 #ifndef Grocery_Bridging_Header_h
